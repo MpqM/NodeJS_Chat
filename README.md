@@ -1,4 +1,4 @@
-# NodeJS_Chat
+# NodeJS-Chat_Service
 #### ⚪ About Project
 * ##### Socket.io를 이용해 개인 채팅방과 공개 채팅(그룹)방을 구현한 채팅 앱 서비스 구축
 * ##### MongoDB를 이용해 채팅 메시지와 채팅방이름을 저장하고, 각 채팅방 복원 가능
